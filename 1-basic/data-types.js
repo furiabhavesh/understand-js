@@ -1,14 +1,3 @@
-/* Comments : Singleline, Multiline*/
-  //This is a single line comment version 1, notice that it starts with two forward slash
-  /* This is a single line comment version 2, notice that it starts with forward_slash+star and ends with star+forward_slash */
-  /* This is a multiline comment,
-  which is span across multiple lines, this also starts with forward_slash+star and ends with star+forward_slash */
-
-/* Case sensitivity : Yes, Javascript is case sensitive language*/
-  var my_var = "Hi Bhavesh";
-  var My_Var = "Hello Furia";
-  /* In above code my_var and My_Var are treated as two different variables in JS */
-
 /* Data types : Primary, Composite, Special*/
   /* Primary > Number */
     var age = 23;
@@ -45,4 +34,3 @@
   /* Special > Undefined */
     var my_var_whose_value_is_never_set;
     console.log(my_var_whose_value_is_never_set);
-/*-----------------------------------------------------------------------------------------------------------------*/
