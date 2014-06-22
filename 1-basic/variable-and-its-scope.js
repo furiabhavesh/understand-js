@@ -18,3 +18,4 @@
     console.log(my_var); /* This will output 'local' */
   }
   console.log(my_var); /* This will output 'global' */
+  /* Note that blocks do not have scope in JS, only functions have scope */

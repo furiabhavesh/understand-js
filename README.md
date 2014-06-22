@@ -9,12 +9,12 @@ Sample codes to understand various aspects of JS, especially OOJS. It is created
 * Comments
 * Data-types
 * Variable & its scope
+* Variable Naming conventions
 
 ### Todo
 
 Basic:
 
-* Variable Naming convention
 * Operators (Arithmetic, Comparison, Logical, Bitwise, Assignment, Conditional,typeof)
 * Conditional constructs (ff,while,for,switch)
 * Functions (including nested functions)
@@ -30,3 +30,4 @@ Advanced:
 
 ### Resources
 * [Learn Javascript on Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/javascript)
+* [Crockford's Javascript guide](http://javascript.crockford.com/)
