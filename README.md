@@ -25,3 +25,6 @@ Advanced:
 * Object Oriented JS
 * Design Patterns
 * Any other suggested topic ?
+
+### Resources
+* [Learn Javascript on Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/javascript)
